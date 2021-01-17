@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="netflix_red">#D61E21</color>
+    <color name="netflix_red_dark">#780000</color>
+    <color name="netflix_accent">#ff4f4f</color>
+
+    <color name="netflix_background">#141414</color>
+</resources>
